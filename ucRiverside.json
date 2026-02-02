@@ -1,4 +1,80 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "University of California, Riverside",
+    "abbreviation": "UC Riverside",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#F4AC27",
+    "primaryBrandColor": "#003BA3",
+    "buttonColor": "#F4AC27",
+    "buttonTextColor": "#000000",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/ucr.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/ucr.png",
+    "partner_id": "001Rd00000K3B3TIAV",
+    "programName": "UC Riverside Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "credits": "4 UC Riverside credits",
+    "startDate": "March 30",
+    "endDate": "June 12"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of California, Riverside",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "1420 Iowa Ave.\r\nRiverside, CA 92507",
+    "abbreviation": "UC Riverside",
+    "phone": "(951) 824-1167",
+    "credits": "4 UC Riverside credits",
+    "programFee": null,
+    "seasonYear": "Spring 2026",
+    "term": "Spring",
+    "season": "Spring",
+    "registrationMessage": "2026 Spring registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "4 UC Riverside credits",
+    "abbreviation": "UC Riverside",
+    "registrationMessage": "2026 Spring registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of California, Riverside",
+    "trackTitle": "N/A Track",
+    "seasonYear": "Spring 2026",
+    "startDate": "March 30",
+    "endDate": "June 12",
+    "credits": "4 UC Riverside credits",
+    "abbreviation": "UC Riverside",
+    "registrationMessage": "2026 Spring registration is now open."
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of California, Riverside",
+    "trackTitle": "N/A Track",
+    "seasonYear": "Spring 2026",
+    "startDate": "March 30",
+    "endDate": "June 12",
+    "credits": "4 UC Riverside credits",
+    "abbreviation": "UC Riverside",
+    "registrationMessage": "2026 Spring registration is now open."
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of California, Riverside",
+    "trackTitle": "Career Rotation Track",
+    "seasonYear": "Spring 2026",
+    "startDate": "March 30",
+    "endDate": "June 12",
+    "credits": "4 UC Riverside credits",
+    "abbreviation": "UC Riverside",
+    "registrationMessage": "2026 Spring registration is now open."
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UC Riverside Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(951) 824-1167",
+    "abbreviation": "UC Riverside"
+  }
+]
