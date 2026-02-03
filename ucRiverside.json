@@ -76,5 +76,11 @@
     "registrationMessage": "Registration is now open.",
     "phone": "(951) 824-1167",
     "abbreviation": "UC Riverside"
+  },
+  {
+    "item": "begin",
+    "credits": "4 UC Riverside credits",
+    "abbreviation": "UC Riverside",
+    "phone": "(951) 824-1167"
   }
 ]
