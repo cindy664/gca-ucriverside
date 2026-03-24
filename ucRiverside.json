@@ -13,9 +13,10 @@
     "partner_id": "001Rd00000K3B3TIAV",
     "programName": "UC Riverside Global Career Accelerator",
     "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
     "credits": "4 UC Riverside credits",
-    "startDate": "March 30",
-    "endDate": "June 12"
+    "startDate": "June 22",
+    "endDate": "August 29"
   },
   {
     "item": "about",
@@ -26,49 +27,64 @@
     "phone": "(951) 824-1167",
     "credits": "4 UC Riverside credits",
     "programFee": null,
-    "seasonYear": "Spring 2026",
-    "term": "Spring",
-    "season": "Spring",
-    "registrationMessage": "2026 Spring registration is now open."
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "explore-tracks",
     "credits": "4 UC Riverside credits",
     "abbreviation": "UC Riverside",
-    "registrationMessage": "2026 Spring registration is now open."
+    "registrationMessage": "Registration is now open."
   },
   {
     "item": "digital-marketing",
     "schoolname": "University of California, Riverside",
     "trackTitle": "Digital Marketing Track",
-    "seasonYear": "Spring 2026",
-    "startDate": "March 30",
-    "endDate": "June 12",
     "credits": "4 UC Riverside credits",
     "abbreviation": "UC Riverside",
-    "registrationMessage": "2026 Spring registration is now open."
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UGRD-198G-001 (Spring • CRN: 77260) (Internship)",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 22",
+    "endDate": "August 29"
   },
   {
     "item": "data-analytics",
     "schoolname": "University of California, Riverside",
     "trackTitle": "Data Analytics Track",
-    "seasonYear": "Spring 2026",
-    "startDate": "March 30",
-    "endDate": "June 12",
     "credits": "4 UC Riverside credits",
     "abbreviation": "UC Riverside",
-    "registrationMessage": "2026 Spring registration is now open."
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UGRD-198G-001 (Spring • CRN: 77260) (Internship)",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 22",
+    "endDate": "August 29"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of California, Riverside",
+    "trackTitle": "Coding for Data Track",
+    "credits": "4 UC Riverside credits",
+    "abbreviation": "UC Riverside",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UGRD-198G-001 (Spring • CRN: 77260) (Internship)",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 22",
+    "endDate": "August 29"
   },
   {
     "item": "career-rotation",
     "schoolname": "University of California, Riverside",
     "trackTitle": "Career Rotation Track",
-    "seasonYear": "Spring 2026",
-    "startDate": "March 30",
-    "endDate": "June 12",
     "credits": "4 UC Riverside credits",
     "abbreviation": "UC Riverside",
-    "registrationMessage": "2026 Spring registration is now open."
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "UGRD-198G-001 (Spring • CRN: 77260) (Internship)",
+    "seasonYear": "Summer 2026",
+    "startDate": "June 22",
+    "endDate": "August 29"
   },
   {
     "item": "reserve-a-seat",
