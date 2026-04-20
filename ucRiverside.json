@@ -2,7 +2,7 @@
   {
     "item": "home",
     "schoolname": "University of California, Riverside",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "#F4AC27",
     "primaryBrandColor": "#003BA3",
@@ -23,7 +23,7 @@
     "schoolname": "University of California, Riverside",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": "1420 Iowa Ave.\r\nRiverside, CA 92507",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "phone": "(951) 824-1167",
     "credits": "4 or 8 UC Riverside credits",
     "programFee": null,
@@ -35,7 +35,7 @@
   {
     "item": "explore-tracks",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -43,7 +43,7 @@
     "schoolname": "University of California, Riverside",
     "trackTitle": "Digital Marketing Track",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "UGRD-198G-001 (Summer • CRN: 76751)",
     "courseCode2": "UGRD-198G-001 (Summer • CRN: 76917)",
@@ -57,7 +57,7 @@
     "schoolname": "University of California, Riverside",
     "trackTitle": "N/A Track",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "UGRD-198G-001 (Summer • CRN: 76751)",
     "courseCode2": "UGRD-198G-001 (Summer • CRN: 76917)",
@@ -71,7 +71,7 @@
     "schoolname": "University of California, Riverside",
     "trackTitle": "Data Analytics Track",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "UGRD-198G-001 (Summer • CRN: 76751)",
     "courseCode2": "UGRD-198G-001 (Summer • CRN: 76917)",
@@ -85,7 +85,7 @@
     "schoolname": "University of California, Riverside",
     "trackTitle": "Coding for Data Track",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "UGRD-198G-001 (Summer • CRN: 76751)",
     "courseCode2": "UGRD-198G-001 (Summer • CRN: 76917)",
@@ -99,7 +99,7 @@
     "schoolname": "University of California, Riverside",
     "trackTitle": "Career Rotation Track",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "UGRD-198G-001 (Summer • CRN: 76751)",
     "courseCode2": "UGRD-198G-001 (Summer • CRN: 76917)",
@@ -118,7 +118,7 @@
   {
     "item": "begin",
     "credits": "4 or 8 UC Riverside credits",
-    "abbreviation": "UCRiverside",
+    "abbreviation": "UC Riverside",
     "phone": "(951) 824-1167"
   }
 ]
